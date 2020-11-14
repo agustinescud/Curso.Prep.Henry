@@ -1,0 +1,5 @@
+Variables: Las variables son datos que se graban, para luego ser utilizados o modificados para futuras operaciones.
+String: Son cadenas de caracteres
+Funciones: Las funciones son un conjunto de variables que tienen un proposito a la hora de ser ejecutadas.
+Declaración: Una declaración es asignar una condición
+Valores Booleanos: Son aquellos valores asignado a la elección de una u otra opcion. Ej blanco, negro. 1 o 0. True o False.
